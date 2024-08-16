@@ -1,0 +1,13 @@
+{
+    "what is your name": "My name is Virtual Assistant.",
+    "hello": "Hi, how can I help you?",
+    "good morning": "Good morning! How are you today?",
+    "what is the time": "It's currently [TIME].",
+    "play music": "Playing some music for you.",
+    "open youtube": "Opening YouTube...",
+    "open google": "Opening Google...",
+    "tell me a joke": "Why don't scientists trust atoms? Because they make up everything!",
+    "how is the weather": "Checking the weather for you...",
+    "who is the president": "The current president is [PRESIDENT].",
+    "what is the capital of France": "The capital of France is Paris."
+}
