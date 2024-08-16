@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
-import speech_to_txt
-import action
+import speech_to_txt as speech_to_txt
+import action as action
 # Function for the button action
 def ask():
     ask_val = speech_to_txt.speech_txt()  # Get recognized speech from the microphone

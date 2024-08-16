@@ -1,9 +1,9 @@
 import json
-import speech_to_txt
-import text_to_speech
+import speech_to_txt as speech_to_txt
+import text_to_speech as text_to_speech
 import datetime
 #Load predefined questions and answers from a JSON file
-with open("responses.json", "r") as file:
+with open("./JSON Files/responses.json", "r") as file:
     predefined_responses = json.load(file)
 
 def action(data):
